@@ -30,7 +30,7 @@ companies..
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="https://linktr.ee/LongNguyenThanh" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000"/>
+    <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/portfolio.png" alt="portfolio"/>
   </a>
   <a href="mailto:longindusrobot@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
@@ -45,12 +45,11 @@ companies..
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
