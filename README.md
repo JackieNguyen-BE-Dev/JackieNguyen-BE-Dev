@@ -58,8 +58,6 @@ companies..
 <table style="width:100%;">
   <tr>
     <td>
-    </td>
-    <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
@@ -71,6 +69,6 @@ companies..
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![LINKEDIN](https://img.icons8.com/color/48/linkedin.png) Project Management Foundations: Risk](https://www.linkedin.com/learning/certificates/53283b6a0add22f51bea712c73455024dce134277f5afd3ea56fc13a15836e8f)
+- [![LINKEDIN](https://img.icons8.com/color/24/linkedin.png) Project Management Foundations: Risk](https://www.linkedin.com/learning/certificates/53283b6a0add22f51bea712c73455024dce134277f5afd3ea56fc13a15836e8f)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Data Structures & Backend with Java](https://www.coursera.org/account/accomplishments/verify/Z9Z7KXGMU9VJ?utm_product=course)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Fundamentals of Java Programming](coursera.org/account/accomplishments/verify/AM78B3KZBE8U?utm_product=course)
